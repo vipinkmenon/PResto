@@ -1,0 +1,3 @@
+<partitions>
+    <partition name = "partition_1" num_modules = "2" modules = "['uart_tx__and_gate', 'or_gate__uart_rx']" SLICEL = "7" SLICEM = "7" DSP = "0" BRAM = "0"></partition>
+</partitions>

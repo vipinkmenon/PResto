@@ -1,0 +1,11 @@
+<fpga_arch>
+    <fpga name = "v6">
+        <clb_frame>36</clb_frame>
+        <bram_frame>28</bram_frame>
+        <dsp_frame>28</dsp_frame>
+        <clb_tile>40</clb_tile>
+        <bram_tile>8</bram_tile>
+        <dsp_tile>16</dsp_tile>
+        <frame_size>81</frame_size>
+    </fpga>
+</fpga_arch>

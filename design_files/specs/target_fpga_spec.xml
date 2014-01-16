@@ -1,0 +1,8 @@
+<target_fpga>
+    <fpga name = "v6lx240t">
+        <slicel>1000</slicel>
+        <slicem>1000</slicem>
+        <bram>50</bram>
+        <dsp>100</dsp>
+    </fpga>
+</target_fpga>

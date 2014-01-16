@@ -1,0 +1,8 @@
+<configurations>
+    <conf1>
+        <modules>uart_rx,or_gate</modules>
+    </conf1>
+    <conf2>
+        <modules>and_gate,uart_tx</modules>
+    </conf2>
+</configurations>

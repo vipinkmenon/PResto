@@ -1,0 +1,9 @@
+<modules>
+    <module name ="kcuart_tx" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\kcuart_tx.v"></module>
+    <module name ="uart_tx" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\uart_tx.v"></module>
+    <module name ="kcuart_rx" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\kcuart_rx.v"></module>
+    <module name ="or_gate" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\or_gate.v"></module>
+    <module name ="uart_rx" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\uart_rx.v"></module>
+    <module name ="and_gate" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\and_gate.v"></module>
+    <module name ="bbfifo_16x8" lang = "verilog" file = "F:\RESEARCH\2.my_git\adaptive\PResto_project\design_files\verilog\bbfifo_16x8.v"></module>
+</modules>
